@@ -6,7 +6,7 @@ This repository contains my interactive Tableau dashboards created using real-wo
 https://public.tableau.com/app/profile/sai.maheswari.kukkala
 ## Project Description
 This dashboard provides insights using data visualization techniques such as:
-- Paraneters and Actions
+- Parameters and Actions
 - Filters
 - Charts and Graphs
 - Trend Analysis
